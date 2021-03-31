@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ex2/static/css/main.79150070.chunk.css",
-    "main.js": "/ex2/static/js/main.56d2ce0c.chunk.js",
-    "main.js.map": "/ex2/static/js/main.56d2ce0c.chunk.js.map",
-    "runtime-main.js": "/ex2/static/js/runtime-main.c111ba2a.js",
-    "runtime-main.js.map": "/ex2/static/js/runtime-main.c111ba2a.js.map",
-    "static/js/2.9cc2eca8.chunk.js": "/ex2/static/js/2.9cc2eca8.chunk.js",
-    "static/js/2.9cc2eca8.chunk.js.map": "/ex2/static/js/2.9cc2eca8.chunk.js.map",
-    "index.html": "/ex2/index.html",
-    "static/css/main.79150070.chunk.css.map": "/ex2/static/css/main.79150070.chunk.css.map",
-    "static/js/2.9cc2eca8.chunk.js.LICENSE.txt": "/ex2/static/js/2.9cc2eca8.chunk.js.LICENSE.txt"
+    "main.css": "/ex2-firestore/static/css/main.79150070.chunk.css",
+    "main.js": "/ex2-firestore/static/js/main.56d2ce0c.chunk.js",
+    "main.js.map": "/ex2-firestore/static/js/main.56d2ce0c.chunk.js.map",
+    "runtime-main.js": "/ex2-firestore/static/js/runtime-main.c5ff2ec6.js",
+    "runtime-main.js.map": "/ex2-firestore/static/js/runtime-main.c5ff2ec6.js.map",
+    "static/js/2.4d7bb60d.chunk.js": "/ex2-firestore/static/js/2.4d7bb60d.chunk.js",
+    "static/js/2.4d7bb60d.chunk.js.map": "/ex2-firestore/static/js/2.4d7bb60d.chunk.js.map",
+    "index.html": "/ex2-firestore/index.html",
+    "static/css/main.79150070.chunk.css.map": "/ex2-firestore/static/css/main.79150070.chunk.css.map",
+    "static/js/2.4d7bb60d.chunk.js.LICENSE.txt": "/ex2-firestore/static/js/2.4d7bb60d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c111ba2a.js",
-    "static/js/2.9cc2eca8.chunk.js",
+    "static/js/runtime-main.c5ff2ec6.js",
+    "static/js/2.4d7bb60d.chunk.js",
     "static/css/main.79150070.chunk.css",
     "static/js/main.56d2ce0c.chunk.js"
   ]
